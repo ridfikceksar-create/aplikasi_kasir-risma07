@@ -1,4 +1,4 @@
-# Kasir Rismaa Web
+# KasirRismaaWeb
 
 Aplikasi kasir sederhana yang bisa langsung dipasang di GitHub Pages.
 
